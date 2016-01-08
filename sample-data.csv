@@ -1,0 +1,5 @@
+Country,Cluster,Organisation,Contact name,Contact email
+#country,#sector,#org,#contact+name,#contact+email
+United Kingdom,Shelter,BRC,Some Body,somebody@redcross.org.uk
+Canada,Shelter,Canadian Red Cross,Somebody Else,somebody-else@redcross.ca
+United States,Shelter,American Red Cross,Jane Incognita,jincognita@redcross.org
